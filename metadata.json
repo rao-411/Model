@@ -1,0 +1,6 @@
+{
+  "name": "VT Garment Logistics Optimization Engine",
+  "description": "Multi-scenario supply chain optimizer for planning VT Garment shipments, container utilization, MCQ/MOQ thresholds, and financial carrying costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
